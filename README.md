@@ -1,4 +1,4 @@
-# Projeto porfifólio 📜
+# Projeto Login & Cadastro 📜
 
 Bem-vindo(a) ao **Login & Cadastro**! Aqui você vai encontrar um repositório simples para página de login e cadastro!
 
